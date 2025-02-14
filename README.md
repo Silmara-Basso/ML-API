@@ -9,7 +9,7 @@ You can use the raw model for visual question answering.
 ## Example 
 ![QExemple](./images/Example.png)
 
-# Perguntas
+# Questions
 
 ### 'Which color is the car in the image?'
 ![Image 1](./imagem1.jpg)
@@ -23,6 +23,6 @@ You can use the raw model for visual question answering.
 ![Image 3](./imagem3.jpg)
 
 
-# Respostas
+# Answers
 ![Respostas](./images/Respostas.png)
 
